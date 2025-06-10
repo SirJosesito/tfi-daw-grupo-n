@@ -166,7 +166,7 @@ export class EncuestasService {
   const camposCsv = [
     { label: 'Número Pregunta', value: 'pregunta_numero' },
     { label: 'Tipo', value: 'tipo_pregunta' },
-    { label: 'Opción Número', value: 'opcion_numero' },
+    { label: 'Número Opción', value: 'opcion_numero' },
     { label: 'Respuesta', value: 'opcion_texto' },
   ];
 

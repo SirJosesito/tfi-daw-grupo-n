@@ -37,6 +37,7 @@ import { RespuestasOpciones } from './respuestas-opciones/entities/respuestas-op
     PreguntasModule, 
     RespuestasModule, 
     RespuestasAbiertasModule,
-    RespuestasOpcionesModule], 
+    RespuestasOpcionesModule,
+  ], 
 })
 export class AppModule {}
